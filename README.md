@@ -1,6 +1,7 @@
 # Financial-Performance-Dashboard-Power-BI
 
 
+![image alt](https://raw.githubusercontent.com/AnkitaSarkar-98/Financial-Performance-Dashboard-Power-BI/cf039b27af59c94528db66b9dbafcbff4195ff8e/Dahboard-Yearly.png)
 
 
 # Overview
