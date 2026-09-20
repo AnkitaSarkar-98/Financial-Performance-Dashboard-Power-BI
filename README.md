@@ -15,6 +15,7 @@ The dashboard helps users analyze:
 Interactive filters are provided for Period, Region, and Product Category, allowing users to explore the data from different perspectives.
 
 Tools & Technologies
+
 Power BI
 Used to build the interactive dashboard, data model, KPIs, charts, filters, and financial visualizations.
 Power Query
@@ -25,10 +26,13 @@ Used for:
 - Creating the DimMonth table
 - Removing unnecessary data
 - Preparing the dataset for analysis
+
 DAX
+
 Used to create calculated measures and financial KPIs.
 
  Method
+ 
 The project followed a structured data-analysis process:
 1. Data Preparation
 The raw financial dataset was imported into Power BI and cleaned using Power Query.
@@ -63,6 +67,7 @@ The dashboard contains:
 - Cash Flow Waterfall
 
    Key Insights
+  
 The dashboard provides a quick understanding of the company's financial position.
 Some of the main observations include:
 - Revenue is approximately $23.6M in the overall dashboard view.
@@ -76,6 +81,7 @@ Some of the main observations include:
 - Receivables are analyzed using aging buckets such as 0–30 Days and 31–60 Days.
 
  Conclusion
+ 
 This project demonstrates how Power BI, Power Query, and DAX can be combined to transform raw financial data into an interactive business intelligence dashboard.
 The dashboard makes it easier to monitor financial KPIs, compare actual performance with budget, analyze profitability, understand cash flow, and explore product, service, and receivables performance.
 It also demonstrates the importance of data cleaning, data modeling, DAX calculations, and effective visualization when building a financial reporting solution.
