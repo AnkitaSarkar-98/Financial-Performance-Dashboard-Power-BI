@@ -22,6 +22,12 @@ Power Query – Cleaned and transformed the data, created dimension tables, and 
 
 DAX – Created measures for Revenue, Budget Variance, Gross Margin %, EBITDA %, Net Cash, and other financial KPIs.
 
+Hierarchy & Drill-down –  
+
+- Revenue & Gross Profit Trend: Year → Quarter → Month hierarchy for time-based analysis.
+
+- Product/Service Performance: Product/Service hierarchy with Product → Product/Service drill-down to analyze performance at different levels.
+
 # Conclusion
 
 The dashboard provides a clear view of financial performance and helps identify trends, budget gaps, profitability, and cash-flow position through interactive visuals and KPIs.
