@@ -22,7 +22,7 @@ Power Query – Cleaned and transformed the data, created dimension tables, and 
 
 DAX – Created measures for Revenue, Budget Variance, Gross Margin %, EBITDA %, Net Cash, and other financial KPIs.
 
-Hierarchy & Drill-down –  
+# Hierarchy & Drill-down –  
 
 - Revenue & Gross Profit Trend: Year → Quarter → Month hierarchy for time-based analysis.
 
